@@ -11,6 +11,9 @@ Since entirely different objects may belong to the same recycling class (e.g., a
 
 For instance, an image of a glass bottle is first classified as a glass bottle, and then a conditional algorithm classifies the glass bottle as glass.
 
+![waste pictures](https://github.com/ANTLab-polimi/smart-waste-bin/blob/main/waste.png?raw=true)
+Figure: A sample of the pictures used as training dataset. The objects are photographed by the Image Acquisition Module directly on the white shelf of the Waste Disposal Unit.
+
 ### Classes
 The Waste Classification Algorithm is trained for five trash classes: 
 - Paper 
