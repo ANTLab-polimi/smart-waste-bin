@@ -5,9 +5,9 @@ The fifth generation of mobile cellular networks (5G) will bring many improvemen
 This repository gathers the pictures used for the Waste Classification Algorithm training of the Smart Waste Bin (SWB). 
 Pictures are taken directly in the Waste Disposal Unit of the SWB and are intended to be used only on this particular device.
 
-Since completely different objects may belong to the same recycling class (e.g., a plastic bottle and a plastic fork belong to the same plastic category), we split the classification task into two steps: -
-1. Tthe image is classified into the object by the AI; 
-2. The object is classified into the material. 
+Since entirely different objects may belong to the same recycling class (e.g., a plastic bottle and a plastic fork belong to the same plastic category), we split the classification task into two steps: -
+1. The image is classified into the object by the AI; 
+2. The object is classified into material. 
 
 For instance, an image of a glass bottle is first classified as a glass bottle, and then a conditional algorithm classifies the glass bottle as glass.
 
